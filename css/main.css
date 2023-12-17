@@ -511,4 +511,25 @@ button {
   cursor: pointer;
 }
 
+.fayoz {
+  display: flex;
+  padding: 40px 60px;
+  border: 5px red dotted;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+}
+.fayoz .donach {
+  padding: 20px 40px;
+  font-size: 40px;
+  background-color: #edf7f2;
+  border: 15px;
+}
+.fayoz .proch {
+  padding: 20px 40px;
+  font-size: 40px;
+  background-color: #edf7f2;
+  border: 15px;
+}
+
 /*# sourceMappingURL=main.css.map */

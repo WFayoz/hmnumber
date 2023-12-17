@@ -18,3 +18,26 @@ body{
 button{
     cursor: pointer;
 }
+.fayoz{
+    display: flex;
+    padding: 40px 60px;
+    border: 5px red dotted;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    .donach{
+        padding: 20px 40px;
+        font-size: 40px;
+        background-color: #edf7f2ff;
+        border: 15px;
+
+        
+    }
+    .proch{
+        padding: 20px 40px;
+        font-size: 40px;
+        background-color: #edf7f2ff;
+        border: 15px;
+
+    }
+}
